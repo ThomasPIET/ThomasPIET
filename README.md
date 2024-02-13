@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thomas</h1>
 <h3 align="center">A young developper from France</h3>
+    <image align="right" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdm5yOWw2ZmFyZHd3cjY4bzA2dHl5cXI1NTYxMXR0YjR3NXp5ampnZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 
 - 🔭 I’m currently working on **my Workspace project**
 
@@ -7,15 +9,11 @@
 
 - 📫 How to reach me **thomaspiet@outlook.fr**
 
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
 
 
 <p align="left">
-<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p></p>
-  
-  
-  </p>
 <a href="https://linkedin.com/in/thomas piet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas piet" height="30" width="40" /></a>
 </p>
 
