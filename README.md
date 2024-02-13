@@ -8,7 +8,15 @@
 - 📫 How to reach me **thomaspiet@outlook.fr**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"<iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">via GIPHY</a></p>">
+<p align="left">
+
+
+<p align="left">
+  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen>
+</p>
+  
+  
+  </p>">
 <a href="https://linkedin.com/in/thomas piet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas piet" height="30" width="40" /></a>
 </p>
 
